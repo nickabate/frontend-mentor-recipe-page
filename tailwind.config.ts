@@ -8,11 +8,20 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
+      colors: {
+        primary: {
+          10: 'hsl(14, 45%, 36%)', // nutmeg
+          20: 'hsl(332, 51%, 32%)', // dark raspberry
+          25: 'hsl(332, 51%, 32%, 0.1)' // dark raspberry
+        },
+        neutral: {
+          10: 'hsl(330, 100%, 98%)', // rose white
+          20: 'hsl(30, 54%, 90%)', // eggshell
+          30: 'hsl(30, 18%, 87%)', // light grey
+          40: 'hsl(30, 10%, 34%)', // wenge brown
+          50: 'hsl(24, 5%, 18%)', // dark charcoal
+        }
+      }
     },
   },
   plugins: [],
