@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [View on Frontend Mentor]()
-- Live Site URL: [View on Vercel]()
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-nextjstailwind-FaQD-SOWZF)
+- Live Site URL: [View on Vercel](https://frontend-mentor-recipe-page-nick-abate.vercel.app/)
 
 ## My process
 
